@@ -1,0 +1,57 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch TesteCampo",
+            "request": "launch",
+            "mainClass": "CampoApp.TesteCampo",
+            "projectName": "Atividade sebas"
+        },
+        {
+            "type": "java",
+            "name": "Launch TesteCampo2",
+            "request": "launch",
+            "mainClass": "CampoApp.TesteCampo2",
+            "projectName": "Atividade sebas"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q1",
+            "request": "launch",
+            "mainClass": "atividade1.Q1",
+            "projectName": "Atividade sebas"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q2",
+            "request": "launch",
+            "mainClass": "atividade1.Q2",
+            "projectName": "Atividade sebas"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uernbets",
+            "request": "launch",
+            "mainClass": "atividade1.Uernbets",
+            "projectName": "Atividade sebas"
+        },
+        {
+            "type": "java",
+            "name": "Launch vendaportas",
+            "request": "launch",
+            "mainClass": "br.uern.di.poo.unidade1.construcao.vendaportas",
+            "projectName": "Atividade sebas"
+        }
+    ]
+}
+
